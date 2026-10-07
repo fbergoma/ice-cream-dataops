@@ -1,0 +1,11 @@
+[cdf]
+default_organization_dir = "ice-cream-dataops"
+default_env = "test"
+
+[modules]
+version = "0.6.53"
+
+[plugins]
+run = true
+pull = false
+dump = false
